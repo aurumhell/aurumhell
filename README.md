@@ -15,7 +15,7 @@
   <img alt="Gmail" width="100" height="70" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>
   <a href="https://t.me/aurumh">
-  <img alt="Gmail" width="25" height="25" src="https://github.com/aurumhell/aurumhell/blob/main/telegram.png" />
+  <img alt="Gmail" width="50" height="50" src="https://github.com/aurumhell/aurumhell/blob/main/telegram.png" />
   </a>
   <br><br>
   <br>
