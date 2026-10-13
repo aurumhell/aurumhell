@@ -10,4 +10,6 @@
 🍣 Rolls • Pizza • Pudding • Pasta
   </pre>
  <br>
- <img src='[https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif](https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif)' alt='' width='25%' />
+ <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='25%' />
+  <br><br>
+ [![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/aurumh/341xRq/10000109/9256984/)
