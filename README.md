@@ -10,4 +10,4 @@
 🍣 Rolls • Pizza • Pudding • Pasta
   </pre>
  <br>
- <img src='https://media.tenor.com/zXISKd3HPjUAAAAj/kokomi.gif' />
+ <img src='https://media.tenor.com/zXISKd3HPjUAAAAj/kokomi.gif' alt='kokomi' />
