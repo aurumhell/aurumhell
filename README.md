@@ -10,7 +10,17 @@
 🍣 Rolls • Pizza • Pudding • Pasta
     <br>
  <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='30' align ='middle' />
+    <br>
+    <a href="mailto:pestnik9@gmail.com">
+ <img align="left" alt="Gmail" width="100" height="70" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
   </pre>
   <br><br>
   [![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-aurumh-111111?style=for-the-badge&logo=genshinimpact&logoColor=white)](https://enka.network/u/aurumh/341xRq/10000057/9256980/)
- </div>
+<br>
+  <br>
+  <p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=aurumhell&&show_icons=true&theme=radical"/>
+
+</div>
