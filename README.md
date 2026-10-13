@@ -12,5 +12,4 @@
  <br>
  <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='25%' />
   <br><br>
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
  </div>
