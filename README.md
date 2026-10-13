@@ -11,4 +11,6 @@
     <br>
  <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='30' align ='middle' />
   </pre>
+  <br><br>
+  [![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-aurumh-111111?style=for-the-badge&logo=genshinimpact&logoColor=white)](https://enka.network/u/aurumh/341xRq/10000057/9256980/)
  </div>
