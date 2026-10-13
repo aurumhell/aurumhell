@@ -12,5 +12,5 @@
  <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='30' align ='middle' />
   </pre>
   <br><br>
-  [![Enka.Network](https://img.shields.io/badge/Enka.Network-Profile-5c8aeb?style=flat)](https://enka.network/u/aurumh/341xRq/10000057/9256980/)
+  [![][Enka.Network](https://img.shields.io/badge/Enka.Network-Profile-5c8aeb?style=flat)](https://enka.network/u/aurumh/341xRq/10000057/9256980/)
  </div>
