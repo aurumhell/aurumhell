@@ -12,7 +12,7 @@
  <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='30' align ='middle' />
     <br>
     <a href="mailto:pestnik9@gmail.com">
- <img align="left" alt="Gmail" width="100" height="70" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+ <img alt="Gmail" width="100" height="70" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
   </pre>
   <br><br>
