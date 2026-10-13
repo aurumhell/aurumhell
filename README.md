@@ -1,6 +1,6 @@
 <div align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bookman+old+style&size=30&pause=1000&color=535DF7&center=true&multiline=true&repeat=false&width=850&height=80&lines=Hellooo;i'm+AurumHell%2C+a+witch's+familiar+and+magic+enthusiast+%E2%98%86" alt="Typing SVG" /></a>
   <img src='https://github.com/aurumhell/aurumhell/blob/main/banner.jpg' alt='' align='right' width='25%' height='50%' />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=bookman+old+style&size=30&pause=1000&color=535DF7&center=true&multiline=true&repeat=false&width=850&height=80&lines=Hellooo;i'm+AurumHell%2C+a+witch's+familiar+and+magic+enthusiast+%E2%98%86" alt="Typing SVG" /></a>
   <br><br>
   <pre>
 💼 Student • studying programming languages 
