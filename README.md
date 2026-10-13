@@ -21,5 +21,8 @@
   <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
 <img  src="https://github-readme-stats.vercel.app/api?username=aurumhell&&show_icons=true&theme=radical"/>
-
+  </a>
+    <a href='https://t.me/aurumh>
+    <img src="https://github.com/aurumhell/aurumhell/blob/main/telegram.svg" width='100' height='70' />
+  </a>
 </div>
