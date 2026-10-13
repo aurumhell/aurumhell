@@ -15,8 +15,8 @@
   <img alt="Gmail" width="100" height="70" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
   </a>
   <br><br>
-  [![Genshin Impact](https://img.shields.io/badge/Genshin_Impact-aurumh-111111?style=for-the-badge&logo=genshinimpact&logoColor=white)](https://enka.network/u/aurumh/341xRq/10000057/9256980/)
-<br>
+  <br>
+  
   <br>
   <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
