@@ -8,7 +8,8 @@
 📖 Music • Anime • Drawing
 🧙‍♀️ Witches • Magic • Mystic
 🍣 Rolls • Pizza • Pudding • Pasta
- <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='45' align ='middle' />
+    <br>
+ <img src='https://github.com/aurumhell/aurumhell/blob/main/kokomi.gif' alt='' width='25' align ='middle' />
   </pre>
   <br><br>
  </div>
