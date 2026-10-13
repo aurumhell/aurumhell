@@ -10,4 +10,4 @@
 🍣 Rolls • Pizza • Pudding • Pasta
   </pre>
  <br>
- <div class="tenor-gif-embed" data-postid="12254826042314556882" data-share-method="host" data-aspect-ratio="0.873016" data-width="100%"><a href="https://tenor.com/view/pixel-sitting-chilling-crossed-legs-waving-hand-gif-12254826042314556882">Pixel Sitting Sticker</a>from <a href="https://tenor.com/search/pixel-stickers">Pixel Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+ <img src='https://media.tenor.com/zXISKd3HPjUAAAAj/kokomi.gif' />
